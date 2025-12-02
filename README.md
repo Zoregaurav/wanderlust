@@ -8,13 +8,13 @@
 🏨 For Users: Browse listings, view details, ratings & reviews, add reviews, wishlist favorites, see location on maps
 👤 For Owners: Add/edit/delete properties, upload images, manage reviews
 
-🔐 Auth & Security: Login/Signup, session/JWT auth, protected routes
+🔐 Auth & Security: Login/Signup, session, protected routes
 💻 General: Responsive UI, flash messages, validation, server-side error handling
 
 🛠 Tech Stack:
-⚛️ Frontend: EJS / React, CSS, JavaScript
+⚛️ Frontend: EJS , CSS, JavaScript
 🟢 Backend: Node.js, Express.js
-🍃 Database: MongoDB + Mongoose
+🍃 Database: MongoDB + Mongoose,mongodb-Atlas-Cloud,Cloudinary Image upload 
 
 🛡️ Auth: Passport.js 
 
