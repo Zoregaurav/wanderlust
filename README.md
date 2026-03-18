@@ -114,9 +114,9 @@ Add visuals of your project to make your repository more attractive and understa
 
 ### 🔐 Login / Register
 
-![Auth]()
+![Auth](https://github.com/Zoregaurav/wanderlust/blob/3a491746c32f9859d278406f20e0ac976b8ffc3b/img-7.png)
+![Auth](https://github.com/Zoregaurav/wanderlust/blob/3a491746c32f9859d278406f20e0ac976b8ffc3b/img-8.png)
 
-> 💡 Tip: Create a `screenshots/` folder in your project root and add these images. Use meaningful names for better organization.
 
 ---
 
