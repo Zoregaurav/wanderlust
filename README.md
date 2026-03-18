@@ -100,19 +100,21 @@ Add visuals of your project to make your repository more attractive and understa
 
 ### 🏠 Homepage
 
-![Homepage](./screenshots/home.png)
+![Homepage](https://github.com/Zoregaurav/wanderlust/blob/a53186f64a4d85526586edcc1be8c2f8f619b1cf/img-1.png)
+![Homepage](https://github.com/Zoregaurav/wanderlust/blob/a53186f64a4d85526586edcc1be8c2f8f619b1cf/img-2.png)
 
 ### 🔍 Listing Details Page
 
-![Listing Details](./screenshots/listing.png)
+![Listing Details](https://github.com/Zoregaurav/wanderlust/blob/a53186f64a4d85526586edcc1be8c2f8f619b1cf/img-5.png)
+![Listing Details](https://github.com/Zoregaurav/wanderlust/blob/a53186f64a4d85526586edcc1be8c2f8f619b1cf/img-4.png)
 
 ### ➕ Add New Property
 
-![Add Property](./screenshots/add.png)
+![Add Property](https://github.com/Zoregaurav/wanderlust/blob/2d6703bc7b8cf9fa989d380c2e190528c02ab366/img-6.png)
 
 ### 🔐 Login / Register
 
-![Auth](./screenshots/auth.png)
+![Auth]()
 
 > 💡 Tip: Create a `screenshots/` folder in your project root and add these images. Use meaningful names for better organization.
 
