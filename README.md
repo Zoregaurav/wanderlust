@@ -96,8 +96,6 @@ wanderlust/
 
 ## 📸 Screenshots
 
-Add visuals of your project to make your repository more attractive and understandable.
-
 ### 🏠 Homepage
 
 ![Homepage](https://github.com/Zoregaurav/wanderlust/blob/a53186f64a4d85526586edcc1be8c2f8f619b1cf/img-1.png)
